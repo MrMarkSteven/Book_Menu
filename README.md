@@ -1,0 +1,3 @@
+# Book_Menu
+please edit this to separate activity for separate book (eg:separate web views)
+I'm very beginer to android Studio.I practiced this tute.It worked nicely.but I dont know how to create separate activity for separate activities.(eg: seperate activities for web vies or pdf views.Please help me.....
